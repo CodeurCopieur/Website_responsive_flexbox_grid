@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0",
+    "aos": "^2.3.4"
+  }
+}
